@@ -1,0 +1,112 @@
+{
+  "dataBase": [
+    {
+      "name": "Person One",
+      "email": "correo@correo.com",
+      "tel": "23423423",
+      "expenses": [
+        {
+          "cost": 1900,
+          "category": "Expenses",
+          "date": 1692449486563,
+          "id": "v4e4zpe2vsslli0q5lv",
+          "name": "Internet"
+        },
+        {
+          "cost": 100,
+          "category": "Food",
+          "date": 1692449486563,
+          "id": "qrQ9WeBhNL4Q1iDePaG",
+          "name": "Hot Dog"
+        },
+        {
+          "cost": 3000,
+          "category": "Health",
+          "date": 1692449460000,
+          "id": "t4bbfpt1sREyM5RQB6s",
+          "name": "Doctor"
+        },
+        {
+          "cost": 2500,
+          "category": "House",
+          "date": 1692449460000,
+          "id": "XkY3SnrLVJrR6Rynx7r",
+          "name": "Cleaning"
+        },
+        {
+          "cost": 700,
+          "category": "Subscriptions",
+          "date": 1692449486563,
+          "id": "nWVpJRK1vT96xCra6o2",
+          "name": "Netflix"
+        },
+        {
+          "cost": 16000,
+          "category": "Savings",
+          "date": 1692449486563,
+          "id": "cTSXjsyRA9sXyi2wGJ6",
+          "name": "Monthly Saving"
+        },
+        {
+          "cost": 30000,
+          "category": "Incomes",
+          "date": 1690980660000,
+          "id": "MhQnPg6DZijVpstjDKn",
+          "name": "Salary"
+        }
+      ],
+      "id": "fQuQByX94aZxSV6YSBA"
+    },
+    {
+      "name": "Person Two",
+      "email": "correo@correo.com",
+      "tel": "23423423",
+      "expenses": [
+        {
+          "cost": 700,
+          "category": "Subscriptions",
+          "date": 1692449460000,
+          "id": "EDx7PME7Z59ySLB8cYB",
+          "name": "Netflix"
+        },
+        {
+          "cost": 16000,
+          "category": "Savings",
+          "date": 1692449460000,
+          "id": "cTSXjsyRA9sXyi2wGJ6",
+          "name": "Monthly Saving"
+        },
+        {
+          "cost": 30000,
+          "category": "Incomes",
+          "date": 1690980660000,
+          "id": "a7vU35Lq6nEDu4wHvb6",
+          "name": "Salary"
+        }
+      ],
+      "id": "pasll584a1hlli51msd"
+    },
+    {
+      "name": "Person Three",
+      "email": "correo@correo.com",
+      "tel": "23423423",
+      "expenses": [
+        {
+          "cost": 15000,
+          "category": "Incomes",
+          "date": 1693056857144,
+          "id": "dxtxsuga9fklls2c7qw",
+          "name": "Salary"
+        },
+        {
+          "cost": 10000,
+          "category": "House",
+          "date": 1693070700000,
+          "id": "hl0w9rd3s3rllsal09s",
+          "name": "House"
+        }
+      ],
+      "id": "9mo3t0qi08klljatqqz"
+    }
+  ]
+}
